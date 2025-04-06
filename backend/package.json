@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "serve": "nodemon app.js",
+    "serve": "node app.js",
+    "dev": "nodemon app.js",
     "seed": "node seed.js"
   },
   "keywords": [],
